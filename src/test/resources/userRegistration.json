@@ -1,0 +1,18 @@
+{
+  "name": "Testing",
+  "emailAddress":"hyderabadts123@gmail.com",
+  "password": "password123",
+  "firstName": "Selenium",
+  "lastName": "Testing",
+  "company": "Automation Testing",
+  "address": "h.no.12",
+  "address2":"same As above",
+  "day": "15",
+  "month" : "October",
+  "year" : "2000",
+  "city": "Hyderabad",
+  "state": "Telangana State",
+  "zipcode": "500089",
+  "mobileNumber": "9999999999",
+  "country" : "India"
+}

@@ -1,0 +1,9 @@
+{
+  "subscriberEmail": "subscriber@gmail.com",
+  "homePageMessageVerification": "Full-Fledged practice website for Automation Engineers",
+  "successSubscriberMessage": "You have been successfully subscribed!",
+  "scrolledDown": "window.scrollBy(0,document.body.scrollHeight)",
+  "scrolledUp": "window.scrollBy(0,-document.body.scrollHeight)",
+  "signUpMessage": "New User Signup!",
+  "emailExistMessage":  "Email Address already exist!"
+}

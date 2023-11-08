@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="1" name="Automation Exercise Website Automation using Selenium">
+
+    <test name="User Registration">
+        <classes>
+            <class name="testrunner.UserRegistrationTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="Login Module">
+        <classes>
+            <class name="testrunner.LoginPageTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="ContactUs Page">
+        <classes>
+            <class name="testrunner.ContactUsTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="Product Page">
+        <classes>
+            <class name="testrunner.ProductPageTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="ScrollUpAndScrollDown Functionality">
+        <classes>
+            <class name="testrunner.ScrollUpAndScrollDownTestRunner"/>
+        </classes>
+    </test>
+
+    <test name="Subscription Functionality">
+        <classes>
+            <class name="testrunner.SubscriptionTestRunner"/>
+        </classes>
+    </test>
+    <test name="TestCases Page Functionality">
+        <classes>
+            <class name="testrunner.TestCasesPageTestRunner"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,7 @@
+{
+  "name": "Testing",
+  "email":"hyderabadts123@gmail.com",
+  "subject": "Testing automationexercise Website",
+  "message": "We are trying to test https://automationexercise.com/ using selenium for learning purpose!!",
+  "fileUploadPath" : "./src/test/resources/fileUpload.txt"
+}
